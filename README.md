@@ -1,2 +1,3 @@
 # Training-repo
-Training
+
+This is a fix to the docs defect.
